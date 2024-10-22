@@ -29,10 +29,3 @@ python 1-prestep.py # Preparation before training
 python 2-train.py # Training on reference dataset
 python 3-predict.py # Inference on query dataset
 ```
-
-# Result
-We can enter in the directory `results` to get the visualization.
-
-In BMMC dataset, model predict cell types:
-
-![BMMC UMAP](./results/bmmc_pred.png)
