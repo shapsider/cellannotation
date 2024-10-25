@@ -11,7 +11,7 @@ pip install torch-1.11.0+cu113-cp38-cp38-linux_x86_64.whl
 ```
 
 # Dataset
-Two separate single-cell atlases (demo datasets): https://pan.baidu.com/s/1voWMkeedRUKNoND5gRkF7Q?pwd=xgu1
+Two separate single-cell atlases (demo datasets): [https://drive.google.com/drive/folders/1YAMlGGV4jlD4d3g57woi4AVDNXGgL7Zb?usp=drive_link](https://drive.google.com/drive/folders/1YAMlGGV4jlD4d3g57woi4AVDNXGgL7Zb?usp=drive_link)
 
 For other dataset sources, please refer to our manuscript.
 
